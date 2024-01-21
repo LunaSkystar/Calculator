@@ -1,4 +1,4 @@
-# Newest version, can't handle parentheses. Please input with spaces. 
+# Newest version. Can't handle parentheses. Please input with spaces. 
 
 operations = ["**", "*", "/", "//", "+", "-"]
 
